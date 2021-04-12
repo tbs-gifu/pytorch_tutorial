@@ -13,12 +13,14 @@ pytorchは以下のサイトで、CUDAなどのバージョンを見ながらイ
 ## 事前準備
 
 jupyterで`00_setup.ipynb`を起動し、すべてのセルを実行してください
+
 データセットのダウンロードが行われます
 
 
 ## Tensorboard
 
 jupyterでは説明しませんが`main.py`にはtensorboardの使用例も載せています
+
 Tensorboardは端末で以下のコマンドにより起動します
 
 ```sh
