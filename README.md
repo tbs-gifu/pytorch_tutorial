@@ -1,13 +1,3 @@
-## ファイル
-
-- 00_setup.ipynb              今回使用するデータセットの準備をするためのファイル
-- 01_pytorch_tensor.ipynb     Pytorchのデータ型であるtensorについて
-- 02_pytorch_network.ipynb    NNの記述方法について
-- 03_pytorch_dataset.ipynb    自作データセットを使用する際の記述方法について
-- main.py                     Pytorchでの一連の流れを記述したpythonファイル
-- requirements.txt            今回必要なライブラリを記載したテキストファイル
-- README.md                   Readme
-
 ## 環境構築
 
 仮想環境下で以下のコマンドを実行し、プログラムを動かすのに必要なライブラリをインストールしてください(pytorch以外)
