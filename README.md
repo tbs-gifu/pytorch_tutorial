@@ -6,9 +6,7 @@
 pip install -r requirements.txt
 ```
 
-pytorchは以下のサイトで、CUDAなどのバージョンを見ながらインストールしてください
-[Pytorch公式HP](https://pytorch.org/get-started/locally/)
-
+pytorchは[公式HP](https://pytorch.org/get-started/locally/)で、CUDAなどのバージョンを見ながらインストールしてください
 
 ## 事前準備
 
