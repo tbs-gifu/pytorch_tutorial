@@ -15,6 +15,15 @@ jupyterで`00_setup.ipynb`を起動し、すべてのセルを実行してくだ
 データセットのダウンロードが行われます
 
 
+## Tutorial
+
+`01_pytorch_tensor.ipynb` → `02_pytorch_network.ipynb` → `03_pytorch_dataset.ipynb`の順で進めてください
+
+jupyterファイルにライブラリの解説や実行例などを記載しています
+
+`main.py`には一連の流れをすべて記載しているので、全てのjupyterファイルを終了した後に閲覧ください
+
+
 ## Tensorboard
 
 jupyterでは説明しませんが`main.py`にはtensorboardの使用例も載せています
