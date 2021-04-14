@@ -10,6 +10,7 @@ pip install -r requirements.txt
 
 pytorchは[公式HP](https://pytorch.org/get-started/locally/)で、CUDAなどのバージョンを見ながらインストールしてください
 
+---
 2. データセット準備
 
 jupyterで`00_setup.ipynb`を起動し、すべてのセルを実行してください
