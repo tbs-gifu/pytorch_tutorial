@@ -34,3 +34,6 @@ Tensorboardは端末で以下のコマンドにより起動します
 tensorboard --logdir [パス]
 ```
 パスはプログラム中に記述します（例では`logs`）
+```sh
+tensorboard --logdir logs
+```
